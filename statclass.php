@@ -16,8 +16,12 @@ class stats
 	public $monthy_cost = 10;
 	public $class_ability = array();
 	Public $spell_ability = array();
-	public $prime_stat = str;
-	public $secon_stat = dex;
-	public $third_stat = con;
+	public $prime_stat = 'str';
+	public $secon_stat = 'dex';
+	public $third_stat = 'con';
 }
+
+$testdump = new stats;
+var_dump($testdump);
+
 ?>

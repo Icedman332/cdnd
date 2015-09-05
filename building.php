@@ -18,7 +18,9 @@ class building
 	public $buy_dc = 1;
 	public $crime_mod = 1;
 	public $tec_needed = 'arcane t1';
-	
 }
+
+$testdump = new building;
+var_dump($testdump);
 
 ?>
