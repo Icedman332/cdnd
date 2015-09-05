@@ -20,6 +20,7 @@ class troops
 	public $rank_title = 'solder';
 	public $leadership_score = 1;
 	public $combat_mod = 0;
+	public $surval_mod = 1;
 	public $great = false;
 	public $legend =false;
 	public $buy_DC = 25;	
