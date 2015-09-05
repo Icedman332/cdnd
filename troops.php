@@ -23,6 +23,11 @@ class troops
 	public $great = false;
 	public $legend =false;
 	public $buy_DC = 25;	
+	public $HP = 10;
+	public $HP_lost = 0;
+	public $AC = 10;
+	//get AC
+	//get saves
 }
 
 $testdump = new troops;
