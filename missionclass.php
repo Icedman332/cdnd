@@ -65,7 +65,7 @@ class mission
 
 
 $test = new mission; 
-$test->setmission(15,1,5,'spying','none');
+//$test->setmission(15,1,5,'spying','none');
 //$test->setreward(15,'iron sword',0,'n/a','n/a','n/a','n/a');
 
 
